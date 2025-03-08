@@ -191,8 +191,7 @@ const messages = [
     "Gửi đến Mẹ, người phụ nữ tuyệt vời nhất đời con...",
     "Một ngày lễ ý nghĩa và tràn niềm vui.\n" +
     "Chúc mẹ luôn tươi cười, dồi dào sức khỏe và luôn là người phụ nữ đẹp nhất trong mắt bố con và mọi người",
-    "Con luôn mong mẹ vui vẻ, hạnh phúc không chỉ riêng trong ngày 8/3 mà tất cả 365 ngày của năm, mẹ đều trọn niềm vui như thế.\n" +
-    "Để con luôn được nhìn thấy nụ cười, ánh mắt, cho con cảm nhận tình yêu thương của mẹ suốt đời.",
+    "Con luôn mong mẹ vui vẻ, hạnh phúc không chỉ riêng trong ngày 8/3 mà tất cả 365 ngày của năm, mẹ đều trọn niềm vui như thế.",
     "Con muốn nói là\n" +
     "Con Yêu Mẹ Nhiều Lắm...",
 ];
